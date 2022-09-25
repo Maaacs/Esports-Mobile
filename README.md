@@ -14,8 +14,12 @@ A proposta do projeto é uma aplicação Web e Mobile que conecte jogadores que 
 
 ## Por quê?
 Decidi participar dessa edição do NLW por 2 motivos:
-#
+
+
 1 - Por ser uma temática que, pessoalmente, eu adoro.
+
+
 2 - Por curiosidade e vontade de aprender as tecnologias React, Reactive Native, NodeJs e aprimorar meu JavaScript e HTML. 
+
 
 Ao longo do desenvolvimento do projeto, pude entender os conceitos dessas tecnologias e conhecer algumas bibliotecas interessantes. Também conheci o ViteJS e o TailWind que me auxiliaram bastante durante o desenvolvimento.
