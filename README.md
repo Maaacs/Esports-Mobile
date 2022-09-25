@@ -10,7 +10,7 @@
 
 Este é um projeto desenvolvido durante a edição NLW eSports realizada pela **[@Rocketseat](https://github.com/Rocketseat)** em Setembro de 2022.
 
-A proposta do projeto é uma aplicação Web e Mobile que conecte jogadores que estão em busca de um duo para jogarem seus jogos prediletos. 
+A proposta do projeto é uma aplicação [Web](https://github.com/Maaacs/Esports-Web) e [Mobile](https://github.com/Maaacs/Esports-Mobile) que conecte jogadores que estão em busca de um duo para jogarem seus jogos prediletos. 
 
 ## Por quê?
 Decidi participar dessa edição do NLW por 2 motivos:
