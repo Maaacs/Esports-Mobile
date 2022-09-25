@@ -13,8 +13,8 @@ Este é um projeto desenvolvido durante a edição NLW eSports realizada pela **
 A proposta do projeto é uma aplicação Web e Mobile que conecte jogadores que estão em busca de um duo para jogarem seus jogos prediletos. 
 
 ## Por quê?
-##
 Decidi participar dessa edição do NLW por 2 motivos:
+#
 1 - Por ser uma temática que, pessoalmente, eu adoro.
 2 - Por curiosidade e vontade de aprender as tecnologias React, Reactive Native, NodeJs e aprimorar meu JavaScript e HTML. 
 
